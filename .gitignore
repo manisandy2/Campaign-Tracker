@@ -1,0 +1,5 @@
+*/__pycache__/*
+*/migrations/*
+**/assets/**
+*/rest_framework/*
+db.sqlite3
